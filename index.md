@@ -2,14 +2,12 @@
 title: Home
 ---
 
-# Aquatic | Biodiversity | Evolution
-# Laboratory
+The ABEL @ Sun Yat-sen University is a young, vibrant lab with a broad interest of aquatic animals, biodiversity, and evolution. We like hanging out in the nature, getting fired up about molecular lab and codes, while contemplating the mysteries of life. We welcome students and scholars sharing our interests from different nations and cultural backgrounds. We are currently recruiting postdocs, master students and undergraduate helpers. Do check out our website or contact me to know more about our lab!
 
-# Highlights
+# Research Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Combining morphological and genetic evidence, we found drastically pattern of population structure of atyid shrimps in Hong Kong.
 
 {%
   include link.html
@@ -23,9 +21,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/shrimps.jpg"
   link="research"
-  title="Our Research"
+  title="Atyid shrimps in Hong Kong"
   text=text
 %}
 
