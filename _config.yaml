@@ -1,11 +1,14 @@
 ### basic settings
 
 # site properties and page defaults
-title: "ABEL@SYSU"
+title: ABEL@SYSU
 description: Aquatic Biodiversity Evolution Laboratory @ Sun Yat-sen University
 logo: images/logo.png
+logo-text: false
 header: images/background.jpg
 footer: images/background2.jpg
+header-dark: false
+footer-dark: false
 baseurl: 
 
 # site social media and other links
