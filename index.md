@@ -25,7 +25,7 @@ The Aquatic Biodiveristy Evolution Laboratory (ABEL) at the School of Ecology, S
   icon="fas fa-arrow-right"
   flip=true
 %}
-[See what we've published &nbsp;→]
+
 {:.center}
 
 
