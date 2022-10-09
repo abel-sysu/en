@@ -13,9 +13,9 @@ The Aquatic Biodiveristy Evolution Laboratory (ABEL) at the School of Ecology, S
 ------
 <br>
 {% capture text %}
-We use NGS sequencing to investigate the phylogenetic relationships of various crustacean lineages. These robust phylogenies will be crucial frameworks for examining how diverse physiological and adaptive features evolved.<br>
+<h4>We use NGS sequencing to investigate the phylogenetic relationships of various crustacean lineages. These robust phylogenies will be crucial frameworks for examining how diverse physiological and adaptive features evolved.<br>
 *References:*<br>
-* [Phylogenomic analyses of brachyuran crabs support early divergence of primary freshwater crabs](https://www.sciencedirect.com/science/article/pii/S1055790318301805)<br>
+* [Phylogenomic analyses of brachyuran crabs support early divergence of primary freshwater crabs](https://www.sciencedirect.com/science/article/pii/S1055790318301805)<br></h4>
 {% endcapture %}
 
 {%
@@ -26,10 +26,10 @@ We use NGS sequencing to investigate the phylogenetic relationships of various c
 %}
 
 {% capture text %}
-Freshwater decapods are some of the most species rich and rapidly diversifying lineages of crustacean with diverse life styles, sizes, habitats, and colour patterns. Through extensive surveys, and cutting-edge phylogenomic and biogeographic analyses, and genome surveys we strive to understand how these diverse freshwater fauna evolved.<br>
+<h4>Freshwater decapods are some of the most species rich and rapidly diversifying lineages of crustacean with diverse life styles, sizes, habitats, and colour patterns. Through extensive surveys, and cutting-edge phylogenomic and biogeographic analyses, and genome surveys we strive to understand how these diverse freshwater fauna evolved.<br>
 *References:*<br>
 * [Contrasting population structures of freshwater atyid shrimps in Hong Kong and their conservation implications](https://www.publish.csiro.au/mf/MF21069)<br>
-* [Conservation of freshwater wildlife in Hong Kong: A genetic perspective](https://onlinelibrary.wiley.com/doi/abs/10.1002/aqc.3211)<br>
+* [Conservation of freshwater wildlife in Hong Kong: A genetic perspective](https://onlinelibrary.wiley.com/doi/abs/10.1002/aqc.3211)<br></h4>
 {% endcapture %}
 
 {%
@@ -41,10 +41,10 @@ Freshwater decapods are some of the most species rich and rapidly diversifying l
 %}
 
 {% capture text %}
-We construct the phylogeny of reef fish lineages using multiple molecular markers and examine the temporal and spatial pattern of diversification of these ecologically important marine fauna.<br>
+<h4>We construct the phylogeny of reef fish lineages using multiple molecular markers and examine the temporal and spatial pattern of diversification of these ecologically important marine fauna.<br>
 *Reference:*<br>
 * [Phylogeography and conservation biogeography of the humphead wrasse, Cheilinus undulatus](https://escholarship.org/content/qt1wt383wf/qt1wt383wf.pdf)<br>
-* [The historical biogeography of groupers: Clade diversification patterns and processes](https://www.sciencedirect.com/science/article/pii/S1055790316000567)<br>
+* [The historical biogeography of groupers: Clade diversification patterns and processes](https://www.sciencedirect.com/science/article/pii/S1055790316000567)<br></h4>
 {% endcapture %}
 
 {%
