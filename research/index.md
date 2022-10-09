@@ -8,76 +8,48 @@ nav:
 # <i class="fas fa-microscope"></i>Research
 
 The Aquatic Biodiveristy Evolution Laboratory (ABEL) at the School of Ecology, Sun Yat-sen University is a young, vibrant lab with a broad interest of aquatic animals, biodiversity, and evolution. We like hanging out in the nature, getting fired up about molecular lab and codes, while contemplating the mysteries of life. We welcome students and scholars sharing our interests from different nations and cultural backgrounds. We are currently recruiting postdocs, master students and undergraduate helpers. Ongoing projects include:
-
+<br>
+---
+<br>
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{%
-  include link.html
-  link="research"
-  text="See what we've published"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
+We use NGS sequencing to investigate the phylogenetic relationships of various crustacean lineages. These robust phylogenies will be crucial frameworks for examining how diverse physiological and adaptive features evolved.
+Reference:
+Phylogenomic analyses of brachyuran crabs support early divergence of primary freshwater crabs
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  title="Phylogenomics and phylohysiology of crustaceans"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-{%
-  include link.html
-  link="tools"
-  text="Browse our tools"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
+Freshwater decapods are some of the most species rich and rapidly diversifying lineages of crustacean with diverse life styles, sizes, habitats, and colour patterns. Through extensive surveys, and cutting-edge phylogenomic and biogeographic analyses, and genome surveys we strive to understand how these diverse freshwater fauna evolved.
+Reference:
+Contrasting population structures of freshwater atyid shrimps in Hong Kong and their conservation implications
+Conservation of freshwater wildlife in Hong Kong: A genetic perspective
+Phylogenomic analyses of brachyuran crabs support early divergence of primary freshwater crabs
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
+  title="Biogeography and evolution of freshwater decapods"
   flip=true
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include link.html
-  link="team"
-  text="Meet our team"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
+We construct the phylogeny of reef fish lineages using multiple molecular markers​ and examine the temporal and spatial pattern of diversification of these ecologically important marine fauna.
+Reference:
+Phylogeography and conservation biogeography of the humphead wrasse, Cheilinus undulatus
+The historical biogeography of groupers: Clade diversification patterns and processes
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  title="Phylogeny and phylogeography of reef fish"
   text=text
 %}
-
-{% include section.html full=true %}
-
-{% include banner.html image="images/banner.jpg" %}
 
 {% include section.html %}
 
