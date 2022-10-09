@@ -22,7 +22,7 @@ Phylogenomic analyses of brachyuran crabs support early divergence of primary fr
   title="Phylogenomics and phylohysiology of crustaceans"
   text=text
 %}
-{% endcapture %}
+{% endcapture text %}
 
 {% capture text %}
 Freshwater decapods are some of the most species rich and rapidly diversifying lineages of crustacean with diverse life styles, sizes, habitats, and colour patterns. Through extensive surveys, and cutting-edge phylogenomic and biogeographic analyses, and genome surveys we strive to understand how these diverse freshwater fauna evolved.
@@ -38,7 +38,7 @@ Phylogenomic analyses of brachyuran crabs support early divergence of primary fr
   flip=true
   text=text
 %}
-{% endcapture %}
+{% endcapture text %}
 
 {% capture text %}
 We construct the phylogeny of reef fish lineages using multiple molecular markers​ and examine the temporal and spatial pattern of diversification of these ecologically important marine fauna.
@@ -53,7 +53,7 @@ The historical biogeography of groupers: Clade diversification patterns and proc
   text=text
 %}
 
-{% endcapture %}
+{% endcapture text %}
 
 {% include section.html %}
 
