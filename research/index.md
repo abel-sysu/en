@@ -9,7 +9,7 @@ nav:
 
 The Aquatic Biodiveristy Evolution Laboratory (ABEL) at the School of Ecology, Sun Yat-sen University is a young, vibrant lab with a broad interest of aquatic animals, biodiversity, and evolution. We like hanging out in the nature, getting fired up about molecular lab and codes, while contemplating the mysteries of life. We welcome students and scholars sharing our interests from different nations and cultural backgrounds. We are currently recruiting postdocs, master students and undergraduate helpers. Ongoing projects include:
 <br>
----
+***
 <br>
 {% capture text %}
 We use NGS sequencing to investigate the phylogenetic relationships of various crustacean lineages. These robust phylogenies will be crucial frameworks for examining how diverse physiological and adaptive features evolved.
@@ -18,7 +18,7 @@ Phylogenomic analyses of brachyuran crabs support early divergence of primary fr
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="research/crustacea.png"
   title="Phylogenomics and phylohysiology of crustaceans"
   text=text
 %}
@@ -33,7 +33,7 @@ Phylogenomic analyses of brachyuran crabs support early divergence of primary fr
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="research/atyid.png"
   title="Biogeography and evolution of freshwater decapods"
   flip=true
   text=text
@@ -48,7 +48,7 @@ The historical biogeography of groupers: Clade diversification patterns and proc
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="research/reeffish.png"
   title="Phylogeny and phylogeography of reef fish"
   text=text
 %}
