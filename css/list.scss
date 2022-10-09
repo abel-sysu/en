@@ -14,8 +14,8 @@ ol {
   li {
     margin: 5px 0;
     @include trim-v-margins;
-    padding-left: 10px;
-    text-align: justify;
+    padding-left: 5px;
+    text-align: left;
     line-height: $spacing + 0.3;
   }
 }
