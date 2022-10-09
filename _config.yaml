@@ -7,8 +7,8 @@ logo: images/logo.png
 logo-text: false
 header: images/background.jpg
 footer: images/background2.jpg
-header-dark: false
-footer-dark: false
+header-dark: true
+footer-dark: true
 baseurl: 
 
 # site social media and other links
