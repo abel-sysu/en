@@ -17,7 +17,7 @@ The Aquatic Biodiveristy Evolution Laboratory (ABEL) at the School of Ecology, S
   image6="images/Ghostcrab_res1.jpg" link6="https://cell.com/" tooltip6="Phylogeography of horned ghostcrab"
 %}
 
-{% capture text %}
+
 {%
   include link.html
   link="research"
@@ -25,8 +25,7 @@ The Aquatic Biodiveristy Evolution Laboratory (ABEL) at the School of Ecology, S
   icon="fas fa-arrow-right"
   flip=true
 %}
-[See what we've published &nbsp;→](research)
+[See what we've published &nbsp;→]
 {:.center}
-{% endcapture %}
 
 
