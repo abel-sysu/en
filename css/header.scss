@@ -31,23 +31,23 @@ header {
       height: 100px;
     }
 
-#    .logo_text {
-#      display: flex;
-#      justify-content: flex-start;
-#      flex-direction: column;
-#      gap: 5px;
-#      line-height: $spacing - 0.3;
-#
-#      .logo_title {
-#        font-size: 1.5rem;
-#      }
-#
-#      .logo_subtitle {
-#        font-size: 0.9rem;
-#        font-style: italic;
-#        color: $gray-500;
-#      }
-#    }
+   .logo_text {
+      display: flex;
+      justify-content: flex-start;
+      flex-direction: column;
+      gap: 5px;
+      line-height: $spacing - 0.3;
+
+      .logo_title {
+        font-size: 1.5rem;
+      }
+
+      .logo_subtitle {
+        font-size: 0.9rem;
+        font-style: italic;
+        color: $gray-500;
+      }
+    }
   }
 
   .nav_row {
