@@ -9,10 +9,12 @@ a {
   color: $accent;
   transition: color $fast;
   overflow-wrap: break-word;
+  text-decoration: none;
 }
 
 a:hover {
   color: currentColor;
+  text-decoration: none;
 }
 
 .link {
@@ -26,6 +28,7 @@ a:hover {
   font-size: 0.9rem;
   text-decoration: none;
   vertical-align: middle;
+  text-decoration: none;
   transition: background $fast, color $fast, opacity $fast;
 
   span {
