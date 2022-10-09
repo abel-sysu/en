@@ -14,7 +14,7 @@ The Aquatic Biodiveristy Evolution Laboratory (ABEL) at the School of Ecology, S
   image3="images/HHW_res.jpg" link3="https://cell.com/" tooltip3="Phylogeography of humphead wrasse"
   image4="images/BRA_res1.jpg" link4="https://cell.com/" tooltip4="Phylogenomics of true crabs"
   image5="images/grouper_res1.jpg" link5="https://cell.com/" tooltip5="Historical biogeography of groupers"
-  image6="images/Ghostcrab_res1.jpg" link6="https://cell.com" tooltip6="Phylogeography of horned ghostcrab"
+  image6="images/Ghostcrab_res1.jpg" link6="https://cell.com/" tooltip6="Phylogeography of horned ghostcrab"
 %}
 
 {% capture text %}
