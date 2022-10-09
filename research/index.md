@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 {% capture text %}
-The Aquatic Biodiveristy Evolution Laboratory (ABEL) at the School of Ecology, Sun Yat-sen University is a young, vibrant lab with a broad interest of aquatic animals, biodiversity, and evolution. We like hanging out in the nature, getting fired up about molecular lab and codes, while contemplating the mysteries of life. We welcome students and scholars sharing our interests from different nations and cultural backgrounds. We are currently recruiting postdocs, master students and undergraduate helpers. Ongoing projects include:
-{% capture text %}{:.center}
+The Aquatic Biodiveristy Evolution Laboratory (ABEL) at the School of Ecology, Sun Yat-sen University is a young, vibrant lab with a broad interest of aquatic animals, biodiversity, and evolution. We like hanging out in the nature, getting fired up about molecular lab and codes, while contemplating the mysteries of life. We welcome students and scholars sharing our interests from different nations and cultural backgrounds. We are currently recruiting postdocs, master students and undergraduate helpers. Ongoing projects include:{:.center}
+{% endcapture %}
 <br>
 ---
 <br>
