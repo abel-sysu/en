@@ -13,7 +13,7 @@ The Aquatic Biodiveristy Evolution Laboratory (ABEL) at the School of Ecology, S
 
 {% capture text %}
 We use NGS sequencing to investigate the phylogenetic relationships of various crustacean lineages. These robust phylogenies will be crucial frameworks for examining how diverse physiological and adaptive features evolved.<br>
-*References:<br>
+*References:*<br>
 * [Phylogenomic analyses of brachyuran crabs support early divergence of primary freshwater crabs](https://www.sciencedirect.com/science/article/pii/S1055790318301805)<br><br>
 {% endcapture %}
 {%
@@ -52,5 +52,3 @@ We construct the phylogeny of reef fish lineages using multiple molecular marker
   text=text
 %}
 {% include section.html %}
-
-
