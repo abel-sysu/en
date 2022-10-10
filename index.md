@@ -16,12 +16,10 @@ title: Home
 
 {%
   include link.html
-  link="research"
+  link="publications"
   text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true
 %}
-
 {:.center}
-
 
