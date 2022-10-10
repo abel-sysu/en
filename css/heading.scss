@@ -44,8 +44,16 @@ h4 {
   text-align: left;
 }
 h5 {
-  font-size: 0.7rem;
+  font-family: $sans;
+  font-weight: $light;
+  text-align: left;
+  color: $gray-700;
+  line-height: $spacing - 0.5;
+}
+h6 {
+  font-family: $sans;
+  font-weight: $light;
   text-align: left;
   color: $gray-500;
-  line-height: 1;
+  line-height: $spacing - 0.5;
 }
