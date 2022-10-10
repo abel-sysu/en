@@ -1,5 +1,5 @@
 ---
-name: KaYan Ma
+name: Ka Yan Ma
 image: images/member/makayan.jpg
 description: Associate Professor
 role: pi
@@ -13,11 +13,11 @@ Born and raised in Hong Kong. <br>
 Always been amazed by the beauty of the sea and hills, <br>
 and the creatures living in them. <br>
 </centre>
-<br>
+
 
 <h4>Education</h4>
 <h5>2010 - 2015 PhD in Marine Biology</h5>
-<h6>James Cook University, Townsville, Australia</h5>
+<h6>James Cook University, Townsville, Australia</h6>
 
 <h5>2006 - 2008 MPhil in Biology</h5>
 <h6>The Chinese University of Hong Kong, Hong Kong, China</h6>
