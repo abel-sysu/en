@@ -39,4 +39,5 @@ Our lab is part of the [School of Ecology](https://eco.sysu.edu.cn/) at the Shen
 %}
 {:.center}
 
-{% capture %} {% include figure.html image="https://shenzhen.sysu.edu.cn/sites/shenzhen.live.dpcms8.sysu.edu.cn/files/u31/wei_xin_tu_pian_20210106092628.jpg" caption="Shenzhen Campus of Sun Yat-sen University" %} {% endcapture %} 
+{% capture col1 %} {% include figure.html image="https://shenzhen.sysu.edu.cn/sites/shenzhen.live.dpcms8.sysu.edu.cn/files/u31/wei_xin_tu_pian_20210106092628.jpg" caption="Shenzhen Campus of Sun Yat-sen University" %}
+{% endcapture %} 
