@@ -7,7 +7,7 @@ nav:
 
 # Contact
 
-Our lab is part of the [School of Ecology](https://eco.sysu.edu.cn/), at the Shenzhen Campus of the [Sun Yat-sen University](https://www.sysu.edu.cn/).
+Our lab is part of the [School of Ecology](https://eco.sysu.edu.cn/) at the Shenzhen Campus of the [Sun Yat-sen University](https://www.sysu.edu.cn/). {:.center}
 
 
 {%
@@ -39,3 +39,4 @@ Our lab is part of the [School of Ecology](https://eco.sysu.edu.cn/), at the She
 %}
 {:.center}
 
+{% capture %} {% include figure.html image="https://shenzhen.sysu.edu.cn/sites/shenzhen.live.dpcms8.sysu.edu.cn/files/u31/wei_xin_tu_pian_20210106092628.jpg" caption="Shenzhen Campus of Sun Yat-sen University" %} {% endcapture %} 
