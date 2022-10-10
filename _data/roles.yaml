@@ -6,9 +6,9 @@ postdoc:
   icon: fas fa-glasses
   text: Postdoctoral Researcher
 
-mphil:
+postgrad:
   icon: fas fa-graduation-cap
-  text: Master Student
+  text: Postgraduate Student
 
 undergrad:
   icon: fas fa-user-graduate
