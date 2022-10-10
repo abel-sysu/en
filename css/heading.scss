@@ -11,7 +11,7 @@ h3,
 h4 {
   font-family: $sans;
   font-weight: $medium;
-  line-height: $spacing - 0.3;
+  line-height: $spacing - 0.5;
   margin: 40px 0 20px 0;
   @include trim-v-margins;
   padding: 10px 0;
@@ -44,16 +44,18 @@ h4 {
   text-align: left;
 }
 h5 {
+  font-size: 0.8rem;
   font-family: $sans;
   font-weight: $light;
   text-align: left;
   color: $gray-700;
-  line-height: $spacing - 0.5;
+  line-height: $spacing - 1;
 }
 h6 {
+  font-size: 0.8rem;
   font-family: $sans;
   font-weight: $light;
   text-align: left;
   color: $gray-500;
-  line-height: $spacing - 0.5;
+  line-height: $spacing - 1;
 }
