@@ -3,6 +3,8 @@ name: Ning Xu
 image: images/member/xuning.jpg
 description: Research Assistant
 role: ra
+aliases:
+  - 许宁
 #group: alum
 ---
 
