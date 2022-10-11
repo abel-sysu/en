@@ -3,6 +3,9 @@ name: Ka Yan Ma
 image: images/member/makayan.jpg
 description: Associate Professor
 role: pi
+aliases:
+  - Kayan Ma
+  - 马嘉欣
 links:
   orcid: 0000-0001-8713-9213
   email: majx26@mail.sysu.edu.cn
