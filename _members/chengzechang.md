@@ -1,10 +1,11 @@
 ---
-name: Zechang Cheng
+name: Zechang Cheng 程泽长
 image: images/member/chengzechang.jpg
 description: Undergrad Student (Year 4)
 role: undergrad
 aliases:
   - 程泽长
+  - Zechang Cheng
 ---
 
 <centre>
