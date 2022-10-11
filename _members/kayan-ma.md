@@ -15,9 +15,11 @@ links:
 Born and raised in Hong Kong. <br>
 Always been amazed by the beauty of the sea and hills, <br>
 and the creatures living in them. <br>
+</centre>
+
 {% include section.html %}
 
-
+<centre>
 <h4>Education</h4>
 <h5>2010 - 2015 PhD in Marine Biology</h5>
 <h6>James Cook University, Townsville, Australia</h6>
@@ -58,5 +60,5 @@ and the creatures living in them. <br>
 <h5>SCUBA (Advance Open Water)</h5>
 <h5>Programming: R, python, shell script</h5>
 
-
 </centre>
+
