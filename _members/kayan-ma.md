@@ -12,7 +12,7 @@ links:
 Born and raised in Hong Kong. <br>
 Always been amazed by the beauty of the sea and hills, <br>
 and the creatures living in them. <br>
-</centre>
+{% include section.html %}
 
 
 <h4>Education</h4>
@@ -54,3 +54,6 @@ and the creatures living in them. <br>
 <h4>Skills</h4>
 <h5>SCUBA (Advance Open Water)</h5>
 <h5>Programming: R, python, shell script</h5>
+
+
+</centre>
