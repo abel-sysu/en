@@ -1,10 +1,11 @@
 ---
-name: Ka Yan Ma
+name: Ka Yan Ma 马嘉欣
 image: images/member/makayan.jpg
 description: Associate Professor
 role: pi
 aliases:
   - Kayan Ma
+  - Ka Yan Ma
   - 马嘉欣
 links:
   orcid: 0000-0001-8713-9213
