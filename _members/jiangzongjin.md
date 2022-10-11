@@ -1,5 +1,5 @@
 ---
-name: Zongjin Jiang
+name: Zongjin Jiang 蒋宗琎
 image: images/member/jiangzongjin.jpg
 description: Undergrad Student (Year 4)
 role: undergrad
