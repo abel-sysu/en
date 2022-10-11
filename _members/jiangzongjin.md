@@ -5,6 +5,7 @@ description: Undergrad Student (Year 4)
 role: undergrad
 aliases:
   - 蒋宗琎
+  - Zongjin Jiang
 ---
 
 <centre>
