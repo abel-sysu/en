@@ -7,9 +7,9 @@ nav:
 
 # Join Us
 
-<centre><img src="../image/labphoto2022.jpg"
-     alt="Welcome to our lab"
-     style="float: left; margin-right: 10px; width=80%; " /></centre>
+<centre>
+![Welcome to our lab!](image/labphoto2022.jpg "Welcome to our lab")
+</centre>
 
 <h3>Graduate students</h3>
  
