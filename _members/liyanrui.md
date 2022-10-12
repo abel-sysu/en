@@ -1,5 +1,5 @@
 ---
-name: Yanrui Li 李艳蕊
+name: Yanrui Li<br>李艳蕊
 image: images/member/liyanrui.jpg
 description: Undergrad Student (Year 3)
 role: undergrad
