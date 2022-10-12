@@ -11,12 +11,12 @@ links:
   email: ziweiw1998@gmail.com
 ---
 
-    My name is Wu Ziwei. I'm now a graduate student    
-    I‘m slow-witted and like to watch some suspensive,    
-    brain-burning, thrilling movies or plays and loves psychology books    
-    Like solving some repetitive and tedious work by programming    
-    At present, I use bioinformatics to solve some    
-    scientific problems about evolutionary genomics and phylogenetics  
+    My name is Wu Ziwei. I’m now a graduate student    
+    I‘m slow-witted and like to watch suspensive,    
+    brain-burning, thrilling movies or play and love psychology books    
+    I like solving some repetitive and tedious work by programming    
+    At present, I use bioinformatics to solve question in
+    evolutionary genomics and phylogenetics  
 <centre>
 email: ziweiw1998@gmail.com
 </centre>
