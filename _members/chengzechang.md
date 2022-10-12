@@ -1,5 +1,5 @@
 ---
-name: Zechang Cheng 程泽长
+name: Zechang Cheng<br>程泽长
 image: images/member/chengzechang.jpg
 description: Undergrad Student (Year 4)
 role: undergrad
