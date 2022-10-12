@@ -1,5 +1,5 @@
 ---
-name: Ziqian Lin 林子茜
+name: Ziqian Lin<br>林子茜
 image: images/member/linziqian.jpg
 description: Undergrad Student (Year 3)
 role: undergrad
