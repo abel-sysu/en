@@ -10,7 +10,7 @@ links:
   email: ziweiw1998@gmail.com
 ---
 
-<centre>
+<left>
 My name is Wu Ziwei. I'm now a graduate student<br>
 She is slow-witted and likes to watch some suspensive,<br> 
 brain-burning, thrilling movies or plays, and loves psychology books<br>
