@@ -7,6 +7,10 @@ nav:
 
 # Join Us
 
+<centre><img src="image/labphoto2022.jpg"
+     alt="Welcome to our lab"
+     style="float: left; margin-right: 10px; width=80%; " /></centre>
+
 <h3>Graduate students</h3>
  
 We are recruiting graduate students with interests in aquatic biodiversity, phylogenetics, and habitat adaptations (e.g. temperature, salinity, pollution). Students will be part of a dynamic team of international researchers in aquatic biodiversity, and will have access to new crustacean genomes and transcriptomes and yield their own cutting-edge discoveries! 
