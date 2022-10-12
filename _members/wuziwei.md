@@ -1,5 +1,5 @@
 ---
-name: Ziwei Wu 吴梓微
+name: Ziwei Wu<br>吴梓微
 image: images/member/wuziwei.jpg
 description: Master Student (Year 2)
 role: postgrad
