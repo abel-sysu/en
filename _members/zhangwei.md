@@ -1,5 +1,5 @@
 ---
-name: Wei Zhang 章威
+name: Wei Zhang<br>章威
 image: images/member/zhangwei.jpg
 description: Master Student (Year 1)
 role: postgrad
