@@ -6,6 +6,8 @@ role: postgrad
 aliases:
   - 吴梓微
   - Ziwei Wu
+links:
+  email: ziweiw1998@gmail.com
 ---
 
 <centre>
