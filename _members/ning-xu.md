@@ -1,5 +1,5 @@
 ---
-name: Ning Xu 许宁
+name: Ning Xu<br>许宁
 image: images/member/xuning.jpg
 description: Research Assistant
 role: staff
