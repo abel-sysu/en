@@ -12,7 +12,7 @@ links:
 ---
 
     My name is Wu Ziwei. I’m now a graduate student    
-    I‘m slow-witted and like to watch suspensive,    
+    I’m slow-witted and like to watch suspensive,    
     brain-burning, thrilling movies or play and love psychology books    
     I like solving some repetitive and tedious work by programming    
     At present, I use bioinformatics to solve question in
