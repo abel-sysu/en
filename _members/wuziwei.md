@@ -1,6 +1,7 @@
 ---
 name: Ziwei Wu<br>吴梓微
 image: images/member/wuziwei.jpg
+image: images/member/ziweiwu_2.jpg
 description: Master Student (Year 2)
 role: postgrad
 aliases:
