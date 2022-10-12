@@ -20,6 +20,8 @@ and the creatures living in them. <br>
 
 {% include section.html %}
 
+# CV 
+
 <centre>
 <h4>Education</h4>
 <h5>2010 - 2015 PhD in Marine Biology</h5>
@@ -64,8 +66,8 @@ and the creatures living in them. <br>
 
 
 <h4>Skills</h4>
-<h5>SCUBA (Advance Open Water)</h5>
-<h5>Programming: R, python, shell script</h5>
+<h6>SCUBA (Advance Open Water)</h6>
+<h6>Programming: R, python, shell script</h6>
 
 </centre>
 
