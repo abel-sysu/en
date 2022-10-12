@@ -1,5 +1,5 @@
 ---
-name: Qufei He 何去非
+name: Qufei He<br>何去非
 image: images/member/hequfei.jpg
 description: Undergrad Student (Year 1)
 role: undergrad
