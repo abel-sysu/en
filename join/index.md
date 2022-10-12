@@ -2,8 +2,8 @@
 title: Join Us
 nav:
   order: 4
-  tooltip: Recruitment
-  image: image/labphoto2022.jpg
+  tooltip: Join Us
+  image: images/labphoto2022.jpg
 ---
 
 # Join Us
