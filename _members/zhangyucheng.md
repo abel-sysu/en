@@ -1,5 +1,5 @@
 ---
-name: Yucheng Zhang 张玉成
+name: Yucheng Zhang<br>张玉成
 image: images/member/zhangyucheng.jpg
 description: Undergrad Student (Year 1)
 role: undergrad
