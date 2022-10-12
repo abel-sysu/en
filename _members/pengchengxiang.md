@@ -1,5 +1,5 @@
 ---
-name: Chengxiang Peng 彭程祥
+name: Chengxiang Peng<br>彭程祥
 image: images/member/pengchengxiang.jpg
 description: Undergrad Student (Year 4)
 role: undergrad
