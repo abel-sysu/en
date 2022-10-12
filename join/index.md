@@ -7,9 +7,8 @@ nav:
 
 # Join Us
 
-<centre>
-![Welcome to our lab!](image/labphoto2022.jpg "Welcome to our lab")
-</centre>
+{%- include figure.html image="image/labphoto2022.jpg" -%}
+<br>
 
 <h3>Graduate students</h3>
  
