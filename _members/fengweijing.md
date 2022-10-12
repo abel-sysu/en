@@ -1,5 +1,5 @@
 ---
-name: Weijing Feng 冯薇静
+name: Weijing Feng<br>冯薇静
 image: images/member/fengweijing.jpg
 description: Master Student (Year 3)
 role: postgrad
