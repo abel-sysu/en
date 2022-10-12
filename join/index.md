@@ -7,7 +7,7 @@ nav:
 
 # Join Us
 
-<centre><img src="/image/labphoto2022.jpg"
+<centre><img src="../image/labphoto2022.jpg"
      alt="Welcome to our lab"
      style="float: left; margin-right: 10px; width=80%; " /></centre>
 
