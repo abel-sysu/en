@@ -1,5 +1,5 @@
 ---
-name: ZiWei Wu<br>吴梓微
+name: Ziwei Wu<br>吴梓微
 image: images/member/wuziwei.jpg
 image: images/member/ziweiwu_2.jpg
 description: Master Student (Year 2)
