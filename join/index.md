@@ -3,11 +3,12 @@ title: Join Us
 nav:
   order: 4
   tooltip: Recruitment
+  image: image/labphoto2022.jpg
 ---
 
 # Join Us
 
-{%- include figure.html image="image/labphoto2022.jpg" -%}
+{%- include figure.html image=page.image -%}
 <br>
 
 <h3>Graduate students</h3>
