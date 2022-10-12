@@ -1,5 +1,5 @@
 ---
-name: Tong Li 李曈
+name: Tong Li<br>李曈
 image: images/member/litong.jpg
 description: Undergrad Student (Year 2)
 role: undergrad
