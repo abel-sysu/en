@@ -14,8 +14,8 @@ links:
     My name is Wu Ziwei. I’m now a graduate student    
     I’m slow-witted and like to watch suspensive,    
     brain-burning, thrilling movies or play and love psychology books    
-    I like solving some repetitive and tedious work by programming    
-    At present, I use bioinformatics to solve question in
+    I enjoy solving some repetitive and tedious work by programming    
+    At present, I use bioinformatics to solve questions in
     evolutionary genomics and phylogenetics  
 <centre>
 email: ziweiw1998@gmail.com
