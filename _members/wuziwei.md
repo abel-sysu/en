@@ -11,7 +11,7 @@ links:
   email: ziweiw1998@gmail.com
 ---
 
-    My name is Wu Ziwei. I'm now a graduate student.    
+    My name is Wu Ziwei. I'm now a graduate student    
     I‘m slow-witted and like to watch some suspensive,    
     brain-burning, thrilling movies or plays and loves psychology books    
     Like solving some repetitive and tedious work by programming    
