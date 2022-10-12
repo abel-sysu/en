@@ -9,8 +9,8 @@ aliases:
 ---
 
 <centre>
-我叫吴梓微，现在是在读研究生<br>
-性子慢，平时喜欢看一些悬疑、烧脑、惊悚的电影或戏剧，热爱心理学书籍<br>
-喜欢用编程的手段解决一些重复且繁琐的工作<br>
-目前在用生物信息学的手段，解决一些关于进化基因组学，系统发育学的科学问题
+My name is Wu Ziwei. I'm now a graduate student<br>
+She is slow-witted and likes to watch some suspensive, brain-burning, thrilling movies or plays, and loves psychology books<br>
+Like to solve some repetitive and tedious work by programming<br>
+At present, we are using bioinformatics to solve some scientific problems about evolutionary genomics and phylogenetics
 </centre>
