@@ -1,7 +1,7 @@
 ---
 name: Weijing Feng<br>冯薇静
 image: images/member/fengweijing2.jpg
-description: Master Student
+description: Master Student 2019-2023
 role: alumni
 aliases:
   - 冯薇静
