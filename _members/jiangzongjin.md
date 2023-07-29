@@ -1,8 +1,8 @@
 ---
 name: Zongjin Jiang<br>蒋宗琎
 image: images/member/jiangzongjin.jpg
-description: Undergrad Student (Year 4)
-role: undergrad
+description: Undergrad Student 2019-2023
+role: alumni
 aliases:
   - 蒋宗琎
   - Zongjin Jiang
