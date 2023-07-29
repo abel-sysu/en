@@ -21,6 +21,12 @@ We are a young, vibrant lab with enthusiasts of aquatic animals, biodiversity, b
   include list.html
   data="members"
   component="portrait"
+  filters="role: postdoc"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: staff"
 %}
 {%
@@ -34,6 +40,13 @@ We are a young, vibrant lab with enthusiasts of aquatic animals, biodiversity, b
   data="members"
   component="portrait"
   filters="role: undergrad"
+%}
+<br><br>ALUMNI<br>
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: alumni"
 %}
 {:.center}
 
