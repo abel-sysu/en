@@ -1,8 +1,8 @@
 ---
 name: Weijing Feng<br>冯薇静
 image: images/member/fengweijing2.jpg
-description: Master Student (Year 3)
-role: postgrad
+description: Master Student
+role: alumni
 aliases:
   - 冯薇静
 ---
