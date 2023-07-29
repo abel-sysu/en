@@ -1,8 +1,8 @@
 ---
 name: Chengxiang Peng<br>彭程祥
 image: images/member/pengchengxiang.jpg
-description: Undergrad Student (Year 4)
-role: undergrad
+description: Undergrad Student 2019-2023
+role: alumni
 aliases:
   - 彭程祥
 ---
