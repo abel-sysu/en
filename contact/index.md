@@ -9,7 +9,7 @@ nav:
 
 Our lab is part of the [School of Ecology](https://eco.sysu.edu.cn/) at the Shenzhen Campus of the [Sun Yat-sen University](https://www.sysu.edu.cn/).
 
-Office: Medical Sciences Complex (医学园) Block 2 Room 1505A
+Office: Medical Sciences Complex (医学园) Block 2 Room 1505A<br>
 Lab: Medical Sciences Complex (医学园) Block 2 Room 1510
 
 {:.center}
