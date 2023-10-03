@@ -2,7 +2,7 @@
 name: Ning Xu<br>许宁
 image: images/member/xuning.jpg
 description: Research Assistant
-role: staff
+role: alumni
 aliases:
   - 许宁
 #group: alum
