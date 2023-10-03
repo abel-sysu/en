@@ -1,8 +1,8 @@
 ---
 name: Yucheng Zhang<br>张玉成
 image: images/member/zhangyucheng.jpg
-description: Undergrad Student (Year 1)
-role: undergrad
+description: Undergrad Student (Year 2)
+role: alumni
 aliases:
   - 张玉成
 ---
