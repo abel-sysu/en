@@ -41,6 +41,8 @@ We are a young, vibrant lab with enthusiasts of aquatic animals, biodiversity, b
   component="portrait"
   filters="role: undergrad"
 %}
+{:.center}
+{% include section.html %}
 <br><br>ALUMNI<br>
 {%
   include list.html
