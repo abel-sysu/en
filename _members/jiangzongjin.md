@@ -13,4 +13,6 @@ A rookie who loves bioinformatics and is currently learning the analytical metho
 Like running and drawing occasionally<br>
 Enjoy the positive and progressive organizational atmosphere in ABEL<br>
 Welcome to this family! 
+————————————————————————————
+Currently a postgrad at the School of Life Sciences, SYSU.
 </centre>
