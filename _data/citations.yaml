@@ -1,6 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.3389/fevo.2024.1243221
+  title: Incomplete lineage sorting and long-branch attraction confound phylogenomic
+    inference of Pancrustacea
+  authors:
+  - Hiu Yan Yu
+  - Ka Hou Chu
+  - Ling Ming Tsang
+  - Ka Yan Ma
+  publisher: Frontiers in Ecology and Evolution
+  date: '2024-01-30'
+  link: https://doi.org/gtjzxg
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 5da21ca3c4de9485a0225749dfc4bfa7db377d8cc22ad443ce0414e2927964a8
 - id: doi:10.3390/jmse11020389
   title: Transcriptome Analysis of Multiple Tissues in the Shrimp Penaeus vannamei
     Reveals the Typical Physiological Response to Three Pathogens
@@ -162,6 +176,19 @@
   orcid: 0000-0001-5690-2319
   page: kayan-ma
   _cache: 2f93841057cec3b55fff078a07cb53e36b0e0dc4f936e7d5682450df658f9a88
+- id: doi:10.1071/MF21192
+  title: Genetic assessment of the rare freshwater shrimp
+  authors:
+  - Lai Him Chow
+  - Ling Ming Tsang
+  - Ka Hou Chu
+  - Ka Yan Ma
+  publisher: Marine and Freshwater Research
+  date: '2022-01-13'
+  link: https://doi.org/gqzfb3
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: d106642afd422113632ba3b4d67c79b3dd5e18d11d6735ab598eac2a98cebc3d
 - id: doi:10.1071/mf21192
   title: Genetic assessment of the rare freshwater shrimp
   authors:
@@ -565,26 +592,6 @@
   orcid: 0000-0001-5690-2319
   page: kayan-ma
   _cache: 0d9ea61db18525c8230e2f926c8a047b34a6ab63c26b92f732a4df89fafc97f1
-- id: doi:10.1111/jbi.13443
-  title: 'Speciation pattern of the horned ghost crab<i>Ocypode ceratophthalmus</i>(Pallas,
-    1772): An evaluation of the drivers of Indo-Pacific marine biodiversity using
-    a widely distributed species'
-  authors:
-  - Ka Yan Ma
-  - Lai Him Chow
-  - Kingsley J. H. Wong
-  - Hsi-Nien Chen
-  - Brian H. Y. Ip
-  - Christoph D. Schubart
-  - Ling Ming Tsang
-  - Benny K. K. Chan
-  - Ka Hou Chu
-  publisher: Journal of Biogeography
-  date: '2018-10-29'
-  link: https://doi.org/gfrx4n
-  orcid: 0000-0001-5690-2319
-  page: kayan-ma
-  _cache: 50d41b97277640a4f661f1c3ba73eaebfeb590c7f68de607b7443dbc1d481490
 - id: doi:10.1186/s12862-018-1284-0
   title: 'Contrasting population genetic structure in three aggregating groupers (Percoidei:
     Epinephelidae) in the Indo-West Pacific: the importance of reproductive mode'
@@ -619,6 +626,26 @@
   orcid: 0000-0001-5690-2319
   page: kayan-ma
   _cache: 4efe4fbaf7e74a1db60eb5af2eada7976ff92dcd34d5f3a370445e4c3b51cdd3
+- id: doi:10.1111/jbi.13443
+  title: 'Speciation pattern of the horned ghost crab<i>Ocypode ceratophthalmus</i>(Pallas,
+    1772): An evaluation of the drivers of Indo-Pacific marine biodiversity using
+    a widely distributed species'
+  authors:
+  - Ka Yan Ma
+  - Lai Him Chow
+  - Kingsley J. H. Wong
+  - Hsi-Nien Chen
+  - Brian H. Y. Ip
+  - Christoph D. Schubart
+  - Ling Ming Tsang
+  - Benny K. K. Chan
+  - Ka Hou Chu
+  publisher: Journal of Biogeography
+  date: '2018-10-29'
+  link: https://doi.org/gfrx4n
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 50d41b97277640a4f661f1c3ba73eaebfeb590c7f68de607b7443dbc1d481490
 - id: doi:10.1643/ci-18-055
   title: 'An Inconvenient Monophyly: An Update on the Taxonomy of the Groupers (Epinephelidae)'
   authors:
