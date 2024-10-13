@@ -1,7 +1,7 @@
 ---
 name: Yue Pan<br>潘越
 image: images/member/panyue.jpg
-description: Undergrad Student (Year 1)
+description: Undergrad Student (Year 2)
 role: undergrad
 aliases:
   - 潘越
