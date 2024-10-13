@@ -2,8 +2,8 @@
 name: Ziwei Wu<br>吴梓微
 image: images/member/wuziwei.jpg
 image: images/member/ziweiwu_2-1.jpg
-description: Master Student (Year 3)
-role: postgrad
+description: Master Student (2021-2024)
+role: alumni
 aliases:
   - 吴梓微
   - ZiWei Wu
