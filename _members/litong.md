@@ -1,7 +1,7 @@
 ---
 name: Tong Li<br>李曈
 image: images/member/litong.jpg
-description: Undergrad Student (Year 3)
+description: Undergrad Student (Year 4)
 role: undergrad
 aliases:
   - 李曈
