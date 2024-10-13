@@ -1,7 +1,7 @@
 ---
 name: Zechang Cheng<br>程泽长
 image: images/member/chengzechang.jpg
-description: Master Student (Year 1)
+description: Master Student (Year 2)
 role: postgrad
 aliases:
   - 程泽长
