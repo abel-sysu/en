@@ -1,8 +1,8 @@
 ---
 name: Yanrui Li<br>李艳蕊
 image: images/member/liyanrui.jpg
-description: Undergrad Student (Year 4)
-role: undergrad
+description: Undergrad Student (2020-2024)
+role: alumni
 aliases:
   - 李艳蕊
 ---
