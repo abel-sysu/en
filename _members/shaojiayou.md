@@ -1,8 +1,8 @@
 ---
 name: Jiayou Shao<br>邵家友
 image: images/member/shaojiayou.jpg
-description: Undergrad Student (Year 4)
-role: undergrad
+description: PhD Student (Year 1)
+role: postgrad
 aliases:
   - 邵家友
 ---
