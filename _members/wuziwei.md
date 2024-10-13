@@ -11,7 +11,7 @@ links:
   email: ziweiw1998@gmail.com
 ---
 
-    My name is Wu Ziwei. I’m now a graduate student    
+    My name is Wu Ziwei. I’m now a PhD student at The University of Melbourne.    
     I’m slow-witted and like to watch suspensive,    
     brain-burning, thrilling movies or play and love psychology books    
     I enjoy solving some repetitive and tedious work by programming    
