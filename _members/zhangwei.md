@@ -1,7 +1,7 @@
 ---
 name: Wei Zhang<br>章威
 image: images/member/zhangwei.jpg
-description: Master Student
+description: Master Student (2022-2025)
 role: alumni
 aliases:
   - 章威
