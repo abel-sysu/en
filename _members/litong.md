@@ -1,7 +1,7 @@
 ---
 name: Tong Li<br>李曈
 image: images/member/litong.jpg
-description: Masster Student (Year 1)
+description: Master Student (Year 1)
 role: postgrad
 aliases:
   - 李曈
