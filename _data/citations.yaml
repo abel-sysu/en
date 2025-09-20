@@ -1,3 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.3897/zse.101.154936
+  title: The cavernicolous freshwater prawn in China, with description of two new
+    species (Decapoda, Palaemonidae, Macrobrachium)
+  authors:
+  - Xuankong Jiang
+  - Jiajun Zhou
+  - Kayan Ma
+  - Yaqin Wang
+  - Zhicai Xie
+  - Huiming Chen
+  publisher: Zoosystematics and Evolution
+  date: '2025-08-22'
+  link: https://doi.org/g937d4
+  _cache: f350ee61aa87e39e49fd5f86d9e8ae54c1c84543dbae7c4beda7cbb1ff9c0a76
