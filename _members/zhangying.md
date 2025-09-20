@@ -1,7 +1,7 @@
 ---
 name: Ying Zhang<br>张颖
 image: images/member/zhangying.jpg
-description: Undergrad Student (Year 3)
+description: Undergrad Student (2023-2025)
 role: alumni
 aliases:
   - 张颖
