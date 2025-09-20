@@ -1,7 +1,7 @@
 ---
 name: Yucheng Zhang<br>张玉成
 image: images/member/zhangyucheng.jpg
-description: Undergrad Student (Year 4)
+description: Undergrad Student (2022-2023)
 role: alumni
 aliases:
   - 张玉成
