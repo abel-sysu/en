@@ -1,7 +1,7 @@
 ---
 name: Yanxuan Chen<br>陈妍轩
 image: images/member/chenyanxuan.jpg
-description: Undergrad Student (Year 1)
+description: Undergrad Student (Year 2)
 role: undergrad
 aliases:
   - 陈妍轩
