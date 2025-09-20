@@ -44,4 +44,3 @@ Lab: Medical Sciences Complex (医学园) Block 2 Room 1510
 %}
 {:.center}
 
-<center><img src="https://shenzhen.sysu.edu.cn/sites/shenzhen.live.dpcms8.sysu.edu.cn/files/u31/wei_xin_tu_pian_20210106092628.jpg" alt="Shenzhen Campus of Sun Yat-sen University" style="width: 80%;" /> </center>
