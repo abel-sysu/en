@@ -14,4 +14,945 @@
   publisher: Zoosystematics and Evolution
   date: '2025-08-22'
   link: https://doi.org/g937d4
-  _cache: f350ee61aa87e39e49fd5f86d9e8ae54c1c84543dbae7c4beda7cbb1ff9c0a76
+  orcid: 0000-0001-5690-2319
+  page: wangyaqin
+  _cache: 61c32e477e9722416e5732d708f56e99f33d5022f262c9d86e55169e2a8ca7f3
+- id: doi:10.1093/ve/veaf039
+  title: Discovery of influenza-like virus clades in invertebrates and the evolutionary
+    history and host-shifting events of Orthomyxoviridae in metazoans
+  authors:
+  - Ricky Wai Tak Leung
+  - Ziwei Wu
+  - Ling Ming Tsang
+  - Ka Hou Chu
+  - Ka Wah Leung
+  - Jing Qin
+  - Ka Yan Ma
+  publisher: Virus Evolution
+  date: '2025-01-01'
+  link: https://doi.org/g937fh
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 3abf1850d30ad0350fcc2c229039ace293293be14edf33190a743e819c056cef
+- id: doi:10.1186/s12915-025-02139-5
+  title: Reference genome provide insights into sex determination of silver aworana
+    (Osteoglossum bicirrhosum)
+  authors:
+  - Yi Liu
+  - Chao Bian
+  - Ka Yan Ma
+  - Yexin Yang
+  - Yuanyuan Wang
+  - Chao Liu
+  - Guochang Ouyang
+  - Meng Xu
+  - Jinhui Sun
+  - Changwei Shao
+  - Jiehu Chen
+  - Qiong Shi
+  - Xidong Mu
+  publisher: BMC Biology
+  date: '2025-01-29'
+  link: https://doi.org/g937fj
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 8369c47dcdc7aeb4acfe69f86d272ec38ed9aade8121ecbdeb38b3573d0b759e
+- id: doi:10.11646/zootaxa.5476.1.33
+  title: 'Description of a new species of freshwater shrimp (Decapoda: Caridea: Atyidae)
+    from Mount Danxia, Guangdong, China, based on morphological and molecular evidence'
+  authors:
+  - YAQIN WANG
+  - KA HOU CHU
+  - KA YAN MA
+  publisher: Zootaxa
+  date: '2024-07-04'
+  link: https://doi.org/g937fk
+  orcid: 0000-0001-5690-2319
+  page: wangyaqin
+  _cache: 329fd462afb3d2922c3a42f948ec7c954185760990324ce389a77ceab40b1bc0
+- id: doi:10.1016/j.isci.2024.111047
+  title: Metagenomics unravel distinct taxonomic and functional diversities between
+    terrestrial and aquatic biomes
+  authors:
+  - Qi Fu
+  - Kayan Ma
+  - Jiayi Zhao
+  - Jiaxin Li
+  - Xueying Wang
+  - Meiqi Zhao
+  - Xianheng Fu
+  - Dandan Huang
+  - Huaihai Chen
+  publisher: iScience
+  date: '2024-10-01'
+  link: https://doi.org/g937fm
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 2e30a00862499c271c19dd7c461867f20a1b1fa310441398ee3c8998ca9c36f7
+- id: doi:10.3389/fevo.2024.1243221
+  title: Incomplete lineage sorting and long-branch attraction confound phylogenomic
+    inference of Pancrustacea
+  authors:
+  - Hiu Yan Yu
+  - Ka Hou Chu
+  - Ling Ming Tsang
+  - Ka Yan Ma
+  publisher: Frontiers in Ecology and Evolution
+  date: '2024-01-30'
+  link: https://doi.org/gtjzxg
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 069d379500357ddfee8a44e9386b11144ddcb672862925095783462986baa448
+- id: doi:10.3390/jmse11020389
+  title: Transcriptome Analysis of Multiple Tissues in the Shrimp Penaeus vannamei
+    Reveals the Typical Physiological Response to Three Pathogens
+  authors:
+  - Ziwei Wu
+  - Ka Hou Chu
+  - Ka Yan Ma
+  publisher: Journal of Marine Science and Engineering
+  date: '2023-02-09'
+  link: https://doi.org/grrsbp
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: e7cf69a5637414cd32adf52aacf6fa06990715b9b5e3ef0cd8835f5c6ba421cb
+- id: doi:10.1016/j.aquaculture.2022.738955
+  title: "Making sense of the taxonomy of the most commercially important shrimps\
+    \ Penaeus Fabricius, 1798\_s. l. (Crustacea: Decapoda: Penaeidae), a way forward"
+  authors:
+  - Chien-Hui Yang
+  - Ka Yan Ma
+  - Ka Hou Chu
+  - Tin-Yam Chan
+  publisher: Aquaculture
+  date: '2023-01-01'
+  link: https://doi.org/grrsbq
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: abb879de5a0e83ff240eee8f02fc6364df1c0c4fb9edc07f6e318f31e1bb53f0
+- id: doi:10.22541/au.167354311.18916778/v1
+  title: Comparative genome anatomy of the male and female silver arowanas provides
+    an improved understanding of sex-determination mechanisms in teleosts
+  authors:
+  - Chao Bian
+  - Yi Liu
+  - Yexin Yang
+  - Ka Yan Ma
+  - Yuanyuan Wang
+  - Chao Liu
+  - Guochang Ouyang
+  - Meng Xu
+  - Jinhui Sun
+  - Shao Changwei
+  - Ruihan Li
+  - Xuejie Wang
+  - Jiehu Chen
+  - Qiong Shi
+  - Xidong Mu
+  publisher: Authorea, Inc.
+  date: '2023-01-12'
+  link: https://doi.org/grrsbr
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 9e973b8140b25feedb93461d821f18c9728a9cd3d89343efd94245abce42c7e6
+- id: doi:10.1016/j.isci.2022.105025
+  title: 'FishPIE: A universal phylogenetically informative exon markers set for ray-finned
+    fishes'
+  authors:
+  - Xidong Mu
+  - Yexin Yang
+  - Jinhui Sun
+  - ' Yi liu'
+  - Meng Xu
+  - Changwei Shao
+  - Ka Hou Chu
+  - Wei Li
+  - Chao Liu
+  - Dangen Gu
+  - Miao Fang
+  - Chi Zhang
+  - Fei Liu
+  - Hongmei Song
+  - Xuejie Wang
+  - Jiehu Chen
+  - Ka Yan Ma
+  publisher: iScience
+  date: '2022-09-01'
+  link: https://doi.org/grrsbs
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 30f805dfc9621c5f111e7c7bbba88e2f9ac807f9c65ba0b96936e1f4990401b2
+- id: doi:10.3390/life12070971
+  title: Nitrous Oxide Emission from Full-Scale Anammox-Driven Wastewater Treatment
+    Systems
+  authors:
+  - Zhiman Lin
+  - Kayan Ma
+  - Yuchun Yang
+  publisher: Life
+  date: '2022-06-28'
+  link: https://doi.org/gqtvs8
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 5729c90ed7b6458df133ddf1bf2cbcc631f52807e89fb71666ad04e555657044
+- id: doi:10.1016/j.geoderma.2022.115778
+  title: Significant response of microbial community to increased salinity across
+    wetland ecosystems
+  authors:
+  - Huaihai Chen
+  - Kayan Ma
+  - Yu Huang
+  - Qi Fu
+  - Yingbo Qiu
+  - Zhiyuan Yao
+  publisher: Geoderma
+  date: '2022-06-01'
+  link: https://doi.org/gp7mdz
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: d7824d8ad66cd853315ee54a0aaa51d24f392acbdc594cf97446d9e9863984d8
+- id: doi:10.3389/fmicb.2022.878978
+  title: Functional Redundancy in Soil Microbial Community Based on Metagenomics Across
+    the Globe
+  authors:
+  - Huaihai Chen
+  - Kayan Ma
+  - Caiyan Lu
+  - Qi Fu
+  - Yingbo Qiu
+  - Jiayi Zhao
+  - Yu Huang
+  - Yuchun Yang
+  - Christopher W. Schadt
+  - Hao Chen
+  publisher: Frontiers in Microbiology
+  date: '2022-05-02'
+  link: https://doi.org/gqz4fc
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 49be132c8b215d3038eb617c136be2a9f16dafe9192af40856227d05bc2f0f33
+- id: doi:10.5194/soil-8-297-2022
+  title: "Lower functional redundancy in \u201Cnarrow\u201D than \u201Cbroad\u201D\
+    \ functions in global soil metagenomics"
+  authors:
+  - Huaihai Chen
+  - Kayan Ma
+  - Yu Huang
+  - Qi Fu
+  - Yingbo Qiu
+  - Jiajiang Lin
+  - Christopher W. Schadt
+  - Hao Chen
+  publisher: SOIL
+  date: '2022-04-08'
+  link: https://doi.org/gqz4fd
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: ccc42eac6310a350816d9e85b20a5b5fc0e4a73710614f79dc0d53f719e3d4ff
+- id: doi:10.1016/j.nantod.2021.101345
+  title: 'Influence of different types of nanomaterials on soil enzyme activity: A
+    global meta-analysis'
+  authors:
+  - Jiajiang Lin
+  - Kayan Ma
+  - Huaihai Chen
+  - Zuliang Chen
+  - Baoshan Xing
+  publisher: Nano Today
+  date: '2022-02-01'
+  link: https://doi.org/gp3h8c
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 98021261f5067c4b88e05ee5c5d0c314bfc3a2fc3601f3e7b11e39a3fc5ff9d3
+- id: doi:10.1071/MF21192
+  title: Genetic assessment of the rare freshwater shrimp
+  authors:
+  - Lai Him Chow
+  - Ling Ming Tsang
+  - Ka Hou Chu
+  - Ka Yan Ma
+  publisher: Marine and Freshwater Research
+  date: '2022-01-13'
+  link: https://doi.org/gqzfb3
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 9bd48449b29f7e543829032649f0b9b7a710fb38219d91e1422fd8f1f2fee80e
+- id: doi:10.1071/mf21192
+  title: Genetic assessment of the rare freshwater shrimp
+  authors:
+  - Lai Him Chow
+  - Ling Ming Tsang
+  - Ka Hou Chu
+  - Ka Yan Ma
+  publisher: Marine and Freshwater Research
+  date: '2022-01-13'
+  link: https://doi.org/gqzfb3
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 34acbae851b3be7bd33c266e664af01255f2bf1c2e6f6343b215d38afe625005
+- id: doi:10.1186/s40663-021-00341-9
+  title: Topography modulates effects of nitrogen deposition on microbial resource
+    limitation in a nitrogen-saturated subtropical forest
+  authors:
+  - Hao Chen
+  - Junjie Tang
+  - Xibin Sun
+  - Kayan Ma
+  - Huaihai Chen
+  - Dejun Li
+  publisher: Forest Ecosystems
+  date: '2021-10-12'
+  link: https://doi.org/gqz4ff
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 78d59a85172c4b852e8005066e315cd59a82c819f78402f04abc68f2263f4659
+- id: doi:10.1007/s00248-021-01720-z
+  title: 'Gut Microbiota in Decapod Shrimps: Evidence of Phylosymbiosis'
+  authors:
+  - Yuanyuan Tang
+  - Ka Yan Ma
+  - Man Kit Cheung
+  - Chien-Hui Yang
+  - Yaqin Wang
+  - Xuelei Hu
+  - Hoi Shan Kwan
+  - Ka Hou Chu
+  publisher: Microbial Ecology
+  date: '2021-02-24'
+  link: https://doi.org/gqzfb4
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: ec39e9397d994ba33a6da88b48a4144fc4e606cc1c58cec2f9a6be10e46ac0d4
+- id: doi:10.1111/zsc.12509
+  title: "Confirming the systematic position of two enigmatic shrimps,\n         \
+    \   <i>Amphionides</i>\n            and Procarididae (Crustacea: Decapoda)"
+  authors:
+  - Yaqin Wang
+  - Ka Yan Ma
+  - Ling Ming Tsang
+  - Kaori Wakabayashi
+  - "Tin\u2010Yam Chan"
+  - Sammy De Grave
+  - Ka Hou Chu
+  publisher: Zoologica Scripta
+  date: '2021-08-02'
+  link: https://doi.org/grrsbt
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 0bf2bde3198bcb0975e276c8a89a03d6b77cc35f01e0ad3f73460732e077514d
+- id: doi:10.1111/evo.14351
+  title: "Distinct suites of pre\u2010 and post\u2010adaptations indicate independent\
+    \ evolutionary pathways of snapping claws in the shrimp family Alpheidae (Decapoda:\
+    \ Caridea)"
+  authors:
+  - Lai Him Chow
+  - Sammy De Grave
+  - Arthur Anker
+  - Karina Ka Yan Poon
+  - Ka Yan Ma
+  - Ka Hou Chu
+  - "Tin\u2010Yam Chan"
+  - Ling Ming Tsang
+  publisher: Evolution
+  date: '2021-09-28'
+  link: https://doi.org/gqz4fg
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 407608e2e7391e61b9f2c9ff93634ee49d715993d6053ccfcccda13b75d7756e
+- id: doi:10.1163/15685403-bja10149
+  title: Morphology and molecular phylogeny of ornamental freshwater prawns of the
+    genus Macrobrachium (Decapoda, Caridea, Palaemonidae) from China with the description
+    of a new species
+  authors:
+  - Qinghua Chen
+  - Wenjian Chen
+  - Yuanwei Hu
+  - Ka Yan Ma
+  - Zhaoliang Guo
+  publisher: Crustaceana
+  date: '2021-10-27'
+  link: https://doi.org/gqzfb6
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: ee2e5b856e8f155a04fb9de0c58257b8bdf637f8e052dadb28db130929d93b1a
+- id: doi:10.3389/fmicb.2021.716764
+  title: Stable Soil Microbial Functional Structure Responding to Biodiversity Loss
+    Based on Metagenomic Evidences
+  authors:
+  - Huaihai Chen
+  - Kayan Ma
+  - Yu Huang
+  - Zhiyuan Yao
+  - Chengjin Chu
+  publisher: Frontiers in Microbiology
+  date: '2021-10-07'
+  link: https://doi.org/gnggvh
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: a151331aa16333043066c17f2ab95d909fe43c6e03230b8371d9f0cb84d35c2c
+- id: doi:10.1186/s12864-021-07636-9
+  title: 'Comparative genomics of the coconut crab and other decapod crustaceans:
+    exploring the molecular basis of terrestrial adaptation'
+  authors:
+  - Werner Pieter Veldsman
+  - Ka Yan Ma
+  - Jerome Ho Lam Hui
+  - Ting Fung Chan
+  - J. Antonio Baeza
+  - Jing Qin
+  - Ka Hou Chu
+  publisher: BMC Genomics
+  date: '2021-04-30'
+  link: https://doi.org/gqzfb7
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: a38744d0c0f62434651470a74839b8e7cb51ab90a9e1407c2e73454aa092fa0e
+- id: pmc:PMC8086120
+  title: 'Comparative genomics of the coconut crab and other decapod crustaceans:
+    exploring the molecular basis of terrestrial adaptation'
+  authors:
+  - Werner Pieter Veldsman
+  - Ka Yan Ma
+  - Jerome Ho Lam Hui
+  - Ting Fung Chan
+  - J Antonio Baeza
+  - Jing Qin
+  - Ka Hou Chu
+  publisher: BMC genomics
+  date: '2021-04-30'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8086120/
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 5b2871f9288eecbcc51e6abcddf00bb5fb61b1d9e0642455d93293a2f403b203
+- id: doi:10.1038/s41467-021-22604-3
+  title: The Chinese mitten crab genome provides insights into adaptive plasticity
+    and developmental regulation
+  authors:
+  - Zhaoxia Cui
+  - Yuan Liu
+  - Jianbo Yuan
+  - Xiaojun Zhang
+  - Tomer Ventura
+  - Ka Yan Ma
+  - Shuai Sun
+  - Chengwen Song
+  - Dongliang Zhan
+  - Yanan Yang
+  - Hourong Liu
+  - Guangyi Fan
+  - Qingle Cai
+  - Jing Du
+  - Jing Qin
+  - Chengcheng Shi
+  - Shijie Hao
+  - Quinn P. Fitzgibbon
+  - Gregory G. Smith
+  - Jianhai Xiang
+  - Tin-Yam Chan
+  - Min Hui
+  - Chenchang Bao
+  - Fuhua Li
+  - Ka Hou Chu
+  publisher: Nature Communications
+  date: '2021-04-22'
+  link: https://doi.org/gqzfb8
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 1764063f3ac067f9a811bf4db528ce09d6ab210ab04334899337a264e449a878
+- id: doi:10.1071/MF21069
+  title: Contrasting population structures of freshwater atyid shrimps in Hong Kong
+    and their conservation implications
+  authors:
+  - Ka Yan Ma
+  - Lai Him Chow
+  - Ling Ming Tsang
+  - Sammy De Grave
+  - Ka Hou Chu
+  publisher: Marine and Freshwater Research
+  date: '2021-01-01'
+  link: https://doi.org/gqzfb9
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 25d5da4baf5a3af39d6cb47b3a5ebfd96c625868c995e371eac176bb73dc0451
+- id: doi:10.1038/s41598-020-78351-w
+  title: Multi-omic approach provides insights into osmoregulation and osmoconformation
+    of the crab Scylla paramamosain
+  authors:
+  - Jiaojiao Niu
+  - Xue Lei Hu
+  - Jack C. H. Ip
+  - Ka Yan Ma
+  - Yuanyuan Tang
+  - Yaqin Wang
+  - Jing Qin
+  - Jian-Wen Qiu
+  - Ting Fung Chan
+  - Ka Hou Chu
+  publisher: Scientific Reports
+  date: '2020-12-10'
+  link: https://doi.org/gp5935
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 8683ce56c2d86f4dec9df8810682593278ca28e90ca56c85fffee8d47b3d6862
+- id: pmc:PMC7728780
+  title: Multi-omic approach provides insights into osmoregulation and osmoconformation
+    of the crab Scylla paramamosain
+  authors:
+  - Jiaojiao Niu
+  - Xue Lei Hu
+  - Jack C H Ip
+  - Ka Yan Ma
+  - Yuanyuan Tang
+  - Yaqin Wang
+  - Jing Qin
+  - Jian-Wen Qiu
+  - Ting Fung Chan
+  - Ka Hou Chu
+  publisher: Scientific reports
+  date: '2020-12-10'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7728780/
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 2f7e09e527c4164378bbce9b6afba7366230cca6a0e7daa6ad7e3bcbc4212d3a
+- id: pmc:PMC6953184
+  title: A crustacean annotated transcriptome (CAT) database
+  authors:
+  - Wenyan Nong
+  - Zacary Y H Chai
+  - Xiaosen Jiang
+  - Jing Qin
+  - Ka Yan Ma
+  - King Ming Chan
+  - Ting Fung Chan
+  - Billy K C Chow
+  - Hoi Shan Kwan
+  - Chris K C Wong
+  - Jian-Wen Qiu
+  - Jerome H L Hui
+  - Ka Hou Chu
+  publisher: BMC genomics
+  date: '2020-01-09'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6953184/
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: ce0f5e913c6cda166fa407df9e9edcac50fa065c9c0ed8a6b1ec48c4558967c7
+- id: doi:10.1186/s12864-019-6433-3
+  title: A crustacean annotated transcriptome (CAT) database
+  authors:
+  - Wenyan Nong
+  - Zacary Y. H. Chai
+  - Xiaosen Jiang
+  - Jing Qin
+  - Ka Yan Ma
+  - King Ming Chan
+  - Ting Fung Chan
+  - Billy K. C. Chow
+  - Hoi Shan Kwan
+  - Chris K. C. Wong
+  - Jian-Wen Qiu
+  - Jerome H. L. Hui
+  - Ka Hou Chu
+  publisher: BMC Genomics
+  date: '2020-01-09'
+  link: https://doi.org/gghwdt
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 943d6ec5f88c433fc7f5666385a696b3ceb3246028684da3310d5817c2cc6cf7
+- id: doi:10.6620/ZS.2020.59-68
+  title: Population Genetic Structure of A Marine Pelagic Egg Producer and Popular
+    Marine Aquarium Species, the Mandarinfish Synchiropus splendidus
+  authors:
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  publisher: Zoological Studies
+  date: '2020-01-01'
+  link: https://doi.org/gqzfdr
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: ad596c253e72df5418760ff230d3cb35037145b29afbc38f4be7d988b5eb3dc1
+- id: doi:10.1038/s41467-018-08197-4
+  title: Penaeid shrimp genome provides insights into benthic adaptation and frequent
+    molting
+  authors:
+  - Xiaojun Zhang
+  - Jianbo Yuan
+  - Yamin Sun
+  - Shihao Li
+  - Yi Gao
+  - Yang Yu
+  - Chengzhang Liu
+  - Quanchao Wang
+  - Xinjia Lv
+  - Xiaoxi Zhang
+  - Ka Yan Ma
+  - Xiaobo Wang
+  - Wenchao Lin
+  - Long Wang
+  - Xueli Zhu
+  - Chengsong Zhang
+  - Jiquan Zhang
+  - Songjun Jin
+  - Kuijie Yu
+  - Jie Kong
+  - Peng Xu
+  - Jack Chen
+  - Hongbin Zhang
+  - Patrick Sorgeloos
+  - Amir Sagi
+  - Acacia Alcivar-Warren
+  - Zhanjiang Liu
+  - Lei Wang
+  - Jue Ruan
+  - Ka Hou Chu
+  - Bin Liu
+  - Fuhua Li
+  - Jianhai Xiang
+  publisher: Nature Communications
+  date: '2019-01-21'
+  link: https://doi.org/gj2dtm
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 1006c0e92b532fec0f28bcfd92327e2ab47a221df6ab82d06aec3ed2d0f3d819
+- id: doi:10.1007/s12526-019-00964-w
+  title: Insights into cryptic diversity and adaptive evolution of the clam Coelomactra
+    antiquata (Spengler, 1802) from comparative transcriptomics
+  authors:
+  - Lefei Yi
+  - Ka Yan Ma
+  - Jing Qin
+  - Ka Hou Chu
+  - Xin Shen
+  - Xueping Meng
+  publisher: Marine Biodiversity
+  date: '2019-07-20'
+  link: https://doi.org/gn5v85
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: ad9ad5f2c1178936f3be54992d61e2835d8b6d6a8e4741a0a6b36292ebebc262
+- id: doi:10.1002/aqc.3211
+  title: 'Conservation of freshwater wildlife in Hong Kong: A genetic perspective'
+  authors:
+  - Wai Yee Wong
+  - Lai Him Chow
+  - Tsz Huen Wu
+  - Ka Yan Ma
+  - Ling Ming Tsang
+  - Ka Hou Chu
+  publisher: 'Aquatic Conservation: Marine and Freshwater Ecosystems'
+  date: '2019-09-02'
+  link: https://doi.org/gh25bk
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: c42a4433cd0bfbb7d92ee8fda7eeea6934eaa5523479bb332fa510efd4b29c90
+- id: doi:10.1016/j.ympev.2019.02.001
+  title: Phylogenomic analyses of brachyuran crabs support early divergence of primary
+    freshwater crabs
+  authors:
+  - Ka Yan Ma
+  - Jing Qin
+  - Chia-Wei Lin
+  - Tin-Yam Chan
+  - Peter K.L. Ng
+  - Ka Hou Chu
+  - Ling Ming Tsang
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2019-06-01'
+  link: https://doi.org/gqzfd3
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 99831b25d0d4cfdd4fa11ff1b88cd6241430ea3d7f4667d45d9c50988fecbcc0
+- id: doi:10.1016/j.ympev.2019.02.006
+  title: 'Systematic analysis of the caridean shrimp superfamily Pandaloidea (Crustacea:
+    Decapoda) based on molecular and morphological evidence'
+  authors:
+  - Yunshi Liao
+  - Ka Yan Ma
+  - Sammy De Grave
+  - Tomoyuki Komai
+  - Tin-Yam Chan
+  - Ka Hou Chu
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2019-05-01'
+  link: https://doi.org/gqzffb
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 1e5409e5420081a525ea1e358a251acc543255d0938938cb51e159e8f10fc2f5
+- id: doi:10.1186/s12862-018-1284-0
+  title: 'Contrasting population genetic structure in three aggregating groupers (Percoidei:
+    Epinephelidae) in the Indo-West Pacific: the importance of reproductive mode'
+  authors:
+  - Ka Yan Ma
+  - Lynne van Herwerden
+  - Stephen J. Newman
+  - Michael L. Berumen
+  - John Howard Choat
+  - Ka Hou Chu
+  - Yvonne Sadovy de Mitcheson
+  publisher: BMC Evolutionary Biology
+  date: '2018-12-01'
+  link: https://doi.org/gqzffk
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 6826de1823a5a3efc7756877a6ad099a4c2e29b62111123c0e7e3a4ec1f8ac27
+- id: pmc:PMC6278153
+  title: 'Contrasting population genetic structure in three aggregating groupers (Percoidei:
+    Epinephelidae) in the Indo-West Pacific: the importance of reproductive mode'
+  authors:
+  - Ka Yan Ma
+  - Lynne van Herwerden
+  - Stephen J Newman
+  - Michael L Berumen
+  - John Howard Choat
+  - Ka Hou Chu
+  - Yvonne Sadovy de Mitcheson
+  publisher: BMC evolutionary biology
+  date: '2018-12-04'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6278153/
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 01243eacd3cf8681b84fb651de6e3797dcb44ae1057318f9a8df03e5e05ceb10
+- id: doi:10.1111/jbi.13443
+  title: 'Speciation pattern of the horned ghost crab<i>Ocypode ceratophthalmus</i>(Pallas,
+    1772): An evaluation of the drivers of Indo-Pacific marine biodiversity using
+    a widely distributed species'
+  authors:
+  - Ka Yan Ma
+  - Lai Him Chow
+  - Kingsley J. H. Wong
+  - Hsi-Nien Chen
+  - Brian H. Y. Ip
+  - Christoph D. Schubart
+  - Ling Ming Tsang
+  - Benny K. K. Chan
+  - Ka Hou Chu
+  publisher: Journal of Biogeography
+  date: '2018-10-29'
+  link: https://doi.org/gfrx4n
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 0ddc071b836219340b56d33522f8b019c3d6915098f5e333e421a6f9b0876b5b
+- id: doi:10.1643/ci-18-055
+  title: 'An Inconvenient Monophyly: An Update on the Taxonomy of the Groupers (Epinephelidae)'
+  authors:
+  - Ka Yan Ma
+  - Matthew T. Craig
+  publisher: Copeia
+  date: '2018-10-01'
+  link: https://doi.org/gfggh6
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 61a6cbef8d8064750cbe19b95f22a17d1b70cd35725a9ee7b960e6a4470395f8
+- id: doi:10.6620/ZS.2018.57-19
+  title: Isolation and Characterization of Polymorphic Microsatellite Loci for Caridina
+    cantonensis, and Transferability Across Eight Confamilial Species (Atyidae, Decapoda)
+  authors:
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  publisher: Zoological Studies
+  date: '2018-01-01'
+  link: https://doi.org/gjd9gm
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: ca179ec705c2b9d81219f448b324444dc19a0b27f62027718ea1fa558876e41b
+- id: pmc:PMC5702152
+  title: 'CrusTF: a comprehensive resource of transcriptomes for evolutionary and
+    functional studies of crustacean transcription factors'
+  authors:
+  - Jing Qin
+  - Yaohua Hu
+  - Ka Yan Ma
+  - Xiaosen Jiang
+  - Ching Hei Ho
+  - Ling Ming Tsang
+  - Lefei Yi
+  - Ricky Wai Tak Leung
+  - Ka Hou Chu
+  publisher: BMC genomics
+  date: '2017-11-25'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5702152/
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 76e6e784b6f9492eab92779771fe8937001b77fc0de4bd823e39ae04d605e59a
+- id: doi:10.1186/s12864-017-4305-2
+  title: 'CrusTF: a comprehensive resource of transcriptomes for evolutionary and
+    functional studies of crustacean transcription factors'
+  authors:
+  - Jing Qin
+  - Yaohua Hu
+  - Ka Yan Ma
+  - Xiaosen Jiang
+  - Ching Hei Ho
+  - Ling Ming Tsang
+  - Lefei Yi
+  - Ricky Wai Tak Leung
+  - Ka Hou Chu
+  publisher: BMC Genomics
+  date: '2017-11-25'
+  link: https://doi.org/gqzfk5
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: d8633ab39625fccbf43bd00c2351a0dca8d23a2595d9ba66f1dcd043b917bfb2
+- id: doi:10.1038/hdy.2017.47
+  title: 'Genetic legacy of tertiary climatic change: a case study of two freshwater
+    loaches, Schistura fasciolata and Pseudogastromyzon myersi, in Hong Kong'
+  authors:
+  - W Y Wong
+  - K Y Ma
+  - L M Tsang
+  - K H Chu
+  publisher: Heredity
+  date: '2017-08-09'
+  link: https://doi.org/gb4h4b
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: ed2814a6835d260c21d9a4513160fba565915d758c28da55a4fd1f6fb6abe270
+- id: doi:10.1016/j.ympev.2016.02.012
+  title: 'The historical biogeography of groupers: Clade diversification patterns
+    and processes'
+  authors:
+  - Ka Yan Ma
+  - Matthew Thomas Craig
+  - John Howard Choat
+  - Lynne van Herwerden
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2016-07-01'
+  link: https://doi.org/f8qd44
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: fd9bf86488794c702cf4f6b372e1f26373f127f341e872663101cfdde94fa847
+- id: doi:10.1002/ece3.1002
+  title: Validation of microsatellite multiplexes for parentage analysis and species
+    discrimination in two hybridizing species of coral reef fish (<i><scp>P</scp>lectropomus
+    spp</i>.,<scp>S</scp>erranidae)
+  authors:
+  - Hugo B. Harrison
+  - Kevin A. Feldheim
+  - Geoffrey P. Jones
+  - Kayan Ma
+  - Hicham Mansour
+  - Sadhasivam Perumal
+  - David H. Williamson
+  - Michael L. Berumen
+  publisher: Ecology and Evolution
+  date: '2014-04-24'
+  link: https://doi.org/gqzfmc
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 97182f86fa6d6dc664e28e1fa7acb9b231c700a2f6552d8e4eaa6caf2135b180
+- id: doi:10.1071/IS14001
+  title: 'Verification of the cryptic species Penaeus pulchricaudatus in the commercially
+    important kuruma shrimp P. japonicus (Decapoda : Penaeidae) using molecular taxonomy'
+  authors:
+  - K. H. Tsoi
+  - K. Y. Ma
+  - T. H. Wu
+  - S. T. Fennessy
+  - K. H. Chu
+  - T. Y. Chan
+  publisher: Invertebrate Systematics
+  date: '2014-01-01'
+  link: https://doi.org/gqzfmg
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 54db61c1195ec8f3cdd7d8fd47d7b1895280063634b40b07928044809ebf56d2
+- id: doi:10.1007/s12686-013-9974-9
+  title: Isolation and characterization of microsatellite markers from the camouflage
+    grouper, Epinephelus polyphekadion (Epinephelidae)
+  authors:
+  - Ka Yan Ma
+  - Yvonne Sadovy de Mitcheson
+  - Ka Hou Chu
+  publisher: Conservation Genetics Resources
+  date: '2013-06-16'
+  link: https://doi.org/gqzfmj
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: e56818313bb962ee0bd8adff5bcb28bc8c081c58311b9620f37ac82f9882ffab
+- id: doi:10.1007/s11033-010-0485-4
+  title: 'Pseudogene: lessons from PCR bias, identification and resurrection'
+  authors:
+  - Shan-Min Chen
+  - Ka-Yan Ma
+  - Jin Zeng
+  publisher: Molecular Biology Reports
+  date: '2010-11-30'
+  link: https://doi.org/bnb2jg
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: a31c47ba99c5ccc86c7323f2fa575bccd99a4806bb32e15d7b8f780f6338a55f
+- id: doi:10.1111/j.1463-6409.2011.00483.x
+  title: 'Refuting the six-genus classification of Penaeus s.l. (Dendrobranchiata,
+    Penaeidae): a combined analysis of mitochondrial and nuclear genes'
+  authors:
+  - Ka Yan Ma
+  - Tin-Yam Chan
+  - Ka Hou Chu
+  publisher: Zoologica Scripta
+  date: '2011-07-20'
+  link: https://doi.org/bxrr7x
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 2009502fc672c396f00d0be9f4a3974532e4cb3315737e44e89e8b946a5f3f20
+- id: doi:10.1016/j.ympev.2009.05.019
+  title: 'Phylogeny of penaeoid shrimps (Decapoda: Penaeoidea) inferred from nuclear
+    protein-coding genes'
+  authors:
+  - K.Y. Ma
+  - T.-Y. Chan
+  - K.H. Chu
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2009-10-01'
+  link: https://doi.org/bsx3qz
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 344682c495a37e3600747896ab5857d2c08016128ebf02f182baf985acd9c2a5
+- id: doi:10.1111/j.1365-294X.2008.03907.x
+  title: Genetic differentiation, hybridization and adaptive divergence in two subspecies
+    of the acorn barnacle<i>Tetraclita japonica</i>in the northwestern Pacific
+  authors:
+  - LING MING TSANG
+  - BENNY K. K. CHAN
+  - KA YAN MA
+  - KA HOU CHU
+  publisher: Molecular Ecology
+  date: '2008-09-01'
+  link: https://doi.org/bd9nvq
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: bd4d5869c50d6ee0b5397e0a6933ba588cf42e8df6a96c457e42d605a620846f
+- id: doi:10.1016/j.ympev.2008.04.009
+  title: 'Phylogeny of Decapoda using two nuclear protein-coding genes: Origin and
+    evolution of the Reptantia'
+  authors:
+  - L.M. Tsang
+  - K.Y. Ma
+  - S.T. Ahyong
+  - T.-Y. Chan
+  - K.H. Chu
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2008-07-01'
+  link: https://doi.org/d9hwg4
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: a9f0bd97df9bb287b478939ced5bd87be6c0b4389b86d55d2a5e1700c54cd825
+- id: doi:10.1007/s00227-006-0460-8
+  title: Lack of mtDNA and morphological differentiation between two acorn barnacles
+    Tetraclita japonica and T. formosana differing in parietes colours and geographical
+    distribution
+  authors:
+  - L. M. Tsang
+  - Benny K. K. Chan
+  - K. Y. Ma
+  - C.-H. Hsu
+  - K. H. Chu
+  publisher: Marine Biology
+  date: '2006-09-27'
+  link: https://doi.org/fk7vvh
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 0527e4257f5c88a3b8f768f1f75294ea8ec6893d6c5b919dd39e3b0abad79f23
