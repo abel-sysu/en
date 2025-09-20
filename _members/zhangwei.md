@@ -1,8 +1,8 @@
 ---
 name: Wei Zhang<br>章威
 image: images/member/zhangwei.jpg
-description: Master Student (Year 3)
-role: postgrad
+description: Master Student
+role: alumni
 aliases:
   - 章威
 ---
