@@ -1,6 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1111/mec.70045
+  title: "Effective Purging and Conservation of Heterozygous Regions During Independent\
+    \ Evolution to High\u2010Level Inbreeding in Wild Paradise Fishes"
+  authors:
+  - Zhongxing Wang
+  - Dongji Yao
+  - Benchi Zhao
+  - Yi Shao
+  - Fan Li
+  - Ka Yan Ma
+  - Rongfeng Cui
+  publisher: Molecular Ecology
+  date: '2025-07-21'
+  link: https://doi.org/g939z6
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: b80d4e7fa8ac440e714bbb2338c2e716705e59d4c70365313388cf5d5fd835e9
 - id: doi:10.3897/zse.101.154936
   title: The cavernicolous freshwater prawn in China, with description of two new
     species (Decapoda, Palaemonidae, Macrobrachium)
