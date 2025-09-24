@@ -1,6 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1111/jbi.70056
+  title: 'Historical Biogeography of <i>Penaeus</i> Prawns (Crustacea: Decapoda: Penaeidae)'
+  authors:
+  - Zechang Cheng
+  - Ka Yan Ma
+  publisher: Journal of Biogeography
+  date: '2025-09-23'
+  link: https://doi.org/g94mpf
+  orcid: 0000-0001-5690-2319
+  page: chengzechang
+  _cache: f5ce0f6bdf5a9d683570ed03f819cb3409c876b960e31387e113da7e1e492ca8
 - id: doi:10.1111/mec.70045
   title: "Effective Purging and Conservation of Heterozygous Regions During Independent\
     \ Evolution to High\u2010Level Inbreeding in Wild Paradise Fishes"
@@ -294,19 +305,6 @@
   orcid: 0000-0001-5690-2319
   page: kayan-ma
   _cache: 9bd48449b29f7e543829032649f0b9b7a710fb38219d91e1422fd8f1f2fee80e
-- id: doi:10.1071/mf21192
-  title: Genetic assessment of the rare freshwater shrimp
-  authors:
-  - Lai Him Chow
-  - Ling Ming Tsang
-  - Ka Hou Chu
-  - Ka Yan Ma
-  publisher: Marine and Freshwater Research
-  date: '2022-01-13'
-  link: https://doi.org/gqzfb3
-  orcid: 0000-0001-5690-2319
-  page: kayan-ma
-  _cache: 34acbae851b3be7bd33c266e664af01255f2bf1c2e6f6343b215d38afe625005
 - id: doi:10.1186/s40663-021-00341-9
   title: Topography modulates effects of nitrogen deposition on microbial resource
     limitation in a nitrogen-saturated subtropical forest
@@ -424,23 +422,6 @@
   orcid: 0000-0001-5690-2319
   page: kayan-ma
   _cache: a38744d0c0f62434651470a74839b8e7cb51ab90a9e1407c2e73454aa092fa0e
-- id: pmc:PMC8086120
-  title: 'Comparative genomics of the coconut crab and other decapod crustaceans:
-    exploring the molecular basis of terrestrial adaptation'
-  authors:
-  - Werner Pieter Veldsman
-  - Ka Yan Ma
-  - Jerome Ho Lam Hui
-  - Ting Fung Chan
-  - J Antonio Baeza
-  - Jing Qin
-  - Ka Hou Chu
-  publisher: BMC genomics
-  date: '2021-04-30'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8086120/
-  orcid: 0000-0001-5690-2319
-  page: kayan-ma
-  _cache: 5b2871f9288eecbcc51e6abcddf00bb5fb61b1d9e0642455d93293a2f403b203
 - id: doi:10.1038/s41467-021-22604-3
   title: The Chinese mitten crab genome provides insights into adaptive plasticity
     and developmental regulation
@@ -511,48 +492,6 @@
   orcid: 0000-0001-5690-2319
   page: kayan-ma
   _cache: 8683ce56c2d86f4dec9df8810682593278ca28e90ca56c85fffee8d47b3d6862
-- id: pmc:PMC7728780
-  title: Multi-omic approach provides insights into osmoregulation and osmoconformation
-    of the crab Scylla paramamosain
-  authors:
-  - Jiaojiao Niu
-  - Xue Lei Hu
-  - Jack C H Ip
-  - Ka Yan Ma
-  - Yuanyuan Tang
-  - Yaqin Wang
-  - Jing Qin
-  - Jian-Wen Qiu
-  - Ting Fung Chan
-  - Ka Hou Chu
-  publisher: Scientific reports
-  date: '2020-12-10'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7728780/
-  orcid: 0000-0001-5690-2319
-  page: kayan-ma
-  _cache: 2f7e09e527c4164378bbce9b6afba7366230cca6a0e7daa6ad7e3bcbc4212d3a
-- id: pmc:PMC6953184
-  title: A crustacean annotated transcriptome (CAT) database
-  authors:
-  - Wenyan Nong
-  - Zacary Y H Chai
-  - Xiaosen Jiang
-  - Jing Qin
-  - Ka Yan Ma
-  - King Ming Chan
-  - Ting Fung Chan
-  - Billy K C Chow
-  - Hoi Shan Kwan
-  - Chris K C Wong
-  - Jian-Wen Qiu
-  - Jerome H L Hui
-  - Ka Hou Chu
-  publisher: BMC genomics
-  date: '2020-01-09'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6953184/
-  orcid: 0000-0001-5690-2319
-  page: kayan-ma
-  _cache: ce0f5e913c6cda166fa407df9e9edcac50fa065c9c0ed8a6b1ec48c4558967c7
 - id: doi:10.1186/s12864-019-6433-3
   title: A crustacean annotated transcriptome (CAT) database
   authors:
@@ -589,7 +528,7 @@
   link: https://doi.org/gqzfdr
   orcid: 0000-0001-5690-2319
   page: kayan-ma
-  _cache: ad596c253e72df5418760ff230d3cb35037145b29afbc38f4be7d988b5eb3dc1
+  _cache: 0bcb25e88732525001c126ecefbc18168317b3e6150138ba13d6e672c3cbf334
 - id: doi:10.1038/s41467-018-08197-4
   title: Penaeid shrimp genome provides insights into benthic adaptation and frequent
     molting
@@ -714,23 +653,6 @@
   orcid: 0000-0001-5690-2319
   page: kayan-ma
   _cache: 6826de1823a5a3efc7756877a6ad099a4c2e29b62111123c0e7e3a4ec1f8ac27
-- id: pmc:PMC6278153
-  title: 'Contrasting population genetic structure in three aggregating groupers (Percoidei:
-    Epinephelidae) in the Indo-West Pacific: the importance of reproductive mode'
-  authors:
-  - Ka Yan Ma
-  - Lynne van Herwerden
-  - Stephen J Newman
-  - Michael L Berumen
-  - John Howard Choat
-  - Ka Hou Chu
-  - Yvonne Sadovy de Mitcheson
-  publisher: BMC evolutionary biology
-  date: '2018-12-04'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6278153/
-  orcid: 0000-0001-5690-2319
-  page: kayan-ma
-  _cache: 01243eacd3cf8681b84fb651de6e3797dcb44ae1057318f9a8df03e5e05ceb10
 - id: doi:10.1111/jbi.13443
   title: 'Speciation pattern of the horned ghost crab<i>Ocypode ceratophthalmus</i>(Pallas,
     1772): An evaluation of the drivers of Indo-Pacific marine biodiversity using
@@ -775,26 +697,7 @@
   link: https://doi.org/gjd9gm
   orcid: 0000-0001-5690-2319
   page: kayan-ma
-  _cache: ca179ec705c2b9d81219f448b324444dc19a0b27f62027718ea1fa558876e41b
-- id: pmc:PMC5702152
-  title: 'CrusTF: a comprehensive resource of transcriptomes for evolutionary and
-    functional studies of crustacean transcription factors'
-  authors:
-  - Jing Qin
-  - Yaohua Hu
-  - Ka Yan Ma
-  - Xiaosen Jiang
-  - Ching Hei Ho
-  - Ling Ming Tsang
-  - Lefei Yi
-  - Ricky Wai Tak Leung
-  - Ka Hou Chu
-  publisher: BMC genomics
-  date: '2017-11-25'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5702152/
-  orcid: 0000-0001-5690-2319
-  page: kayan-ma
-  _cache: 76e6e784b6f9492eab92779771fe8937001b77fc0de4bd823e39ae04d605e59a
+  _cache: 227a290d455f5e1cd89f39d2267df660ec2f8164574b4deaa42a1abcff8d1de7
 - id: doi:10.1186/s12864-017-4305-2
   title: 'CrusTF: a comprehensive resource of transcriptomes for evolutionary and
     functional studies of crustacean transcription factors'
