@@ -1,6 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1016/j.ocecoaman.2025.108065
+  title: 'Does fishery management for groupers (Teleostei: Epinephelidae) protect
+    them effectively? Context from the IUCN''s Red list of threatened species'
+  authors:
+  - Ka Yan Ma
+  publisher: Ocean &amp; Coastal Management
+  date: '2026-02-01'
+  link: https://doi.org/hbg8m8
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 72e9a9762ef7bf28004f22ec1a2df82f2c539188e5b908b5f57b866216d53d30
 - id: doi:10.1111/jbi.70056
   title: 'Historical Biogeography of <i>Penaeus</i> Prawns (Crustacea: Decapoda: Penaeidae)'
   authors:
