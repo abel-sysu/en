@@ -1,6 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1186/s12864-026-13172-1
+  title: 'Neuropeptide diversity and evolutionary patterns in crustaceans: insights
+    into adaptations, agonism, and functional importance in organs'
+  authors:
+  - Terance Ho Him Wong
+  - Lai Him Chow
+  - Tom Kwok Lun Hui
+  - Ka Yan Ma
+  - Ling Ming Tsang
+  - Ricky Wai Tak Leung
+  - Jing Qin
+  publisher: BMC Genomics
+  date: '2026-08-18'
+  link: https://doi.org/hcgktd
+  orcid: 0000-0001-5690-2319
+  page: kayan-ma
+  _cache: 09bc5a4cd8c144524d10d229878d051379d2133096e148abe324a1d1900d0b9b
 - id: doi:10.1016/j.ocecoaman.2025.108065
   title: 'Does fishery management for groupers (Teleostei: Epinephelidae) protect
     them effectively? Context from the IUCN''s Red list of threatened species'
