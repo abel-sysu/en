@@ -1,8 +1,8 @@
 ---
 name: Yaqin Wang<br>王亚琴
 image: images/member/wangyaqin.jpg
-description: Postdoctoral Fellow
-role: postdoc
+description: Postdoctoral Fellow (2023-2025)
+role: alumni
 aliases:
   - 王亚琴
   - Yaqin Wang
@@ -20,5 +20,5 @@ links:
 野外项目：<br>
 1. 粤港澳大湾区河口资源调查：深圳，珠海和广州沿海与岛屿eDNA采集与当地居民LEK访谈<br>
 2. 华南水域匙指虾科多样性调查：四川，湖南和湖北等溪流与喀斯特地貌地区采样<br><br>
-本课题组长期招募野外劳务人员，欢迎有兴趣的同学邮件联系。<br>
+
 </centre>
