@@ -1,8 +1,8 @@
 ---
 name: Qufei He<br>何去非
 image: images/member/hequfei.jpg
-description: Undergrad Student (Year 4)
-role: undergrad
+description: Undergrad Student (2022-2026)
+role: alumni
 aliases:
   - 何去非
 ---
