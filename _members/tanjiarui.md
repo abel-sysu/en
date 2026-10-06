@@ -1,8 +1,8 @@
 ---
 name: Jiarui Tan<br>谭佳芮
 image: images/member/tanjiarui.jpg
-description: Undergrad Student (Year 1)
-role: undergrad
+description: Undergrad Student
+role: alumni
 aliases:
   - 谭佳芮
   - Jiarui Tan
