@@ -1,7 +1,7 @@
 ---
 name: Yankun Yang<br>杨艳坤
 image: images/member/yangyankun.jpg
-description: Master Student (Year 2)
+description: Master Student (Year 3)
 role: postgrad
 aliases:
   - 杨艳坤
