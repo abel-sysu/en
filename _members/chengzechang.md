@@ -1,8 +1,8 @@
 ---
 name: Zechang Cheng<br>程泽长
 image: images/member/chengzechang.jpg
-description: Master Student (Year 3)
-role: postgrad
+description: Undergrad - Master Student 2020-2026
+role: alumni
 aliases:
   - 程泽长
   - Zechang Cheng
