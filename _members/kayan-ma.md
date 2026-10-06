@@ -67,6 +67,11 @@ and the creatures living in them. <br>
 <h5>2008</h5>
 <h6>Endeavour Australia Cheung Kong Research Fellowship</h6>
 
+<h4>Affiliation</h4>
+<h6>IUCN SSC Grouper and Wrasse Specialist Group, China Species Specialist Group</h6>
+<h6>Associate Editor of *Crustaceana*</h6>
+<h6>Review Editor of *Frontiers in Marine Science* (Marine Molecular Biology and Ecology)</h6>
+<h6>Topic Editor of *Frontiers in Genetics*</h6>
 
 <h4>Skills</h4>
 <h6>SCUBA (Advance Open Water)</h6>
