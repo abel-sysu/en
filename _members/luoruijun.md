@@ -1,8 +1,8 @@
 ---
 name: Ruijun Luo<br>罗睿君
 image: images/member/luoruijun.jpg
-description: Undergrad Student (Year 4)
-role: undergrad
+description: Undergrad Student (2022-2026)
+role: alumni
 aliases:
   - 罗睿君
 ---
